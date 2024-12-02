@@ -1,6 +1,5 @@
 tasks = []
 
-
 def display_menu():
     print("\n=== Трекер задач ===")
     print("1. Показать все задачи")
