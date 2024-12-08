@@ -18,3 +18,4 @@ else:
     cv2.imwrite(output_image_path, image)
 
     print("Face on the photo successfully outined. Result save to", output_image_path)
+
