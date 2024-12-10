@@ -36,4 +36,5 @@ for i in range(SIZE * SIZE):
 
 update_buttons()
 
+
 root.mainloop()
